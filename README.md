@@ -6,7 +6,7 @@
 - <b>[Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)</b>
 <h2>📺 Certifications</h2>
 
-- [CompTIA Security +(Expected January 2025)](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA Security +(Expected February 2025)](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Google Cybersecurity](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 <h2> 🤳 Connect with me:</h2>
